@@ -1,4 +1,6 @@
-## Hi there 👋
+## Computer Engineering Major @ Wright State University,
+## My introduction to Git
+## Long Time viewer first time contributor
 
 <!--
 **sunburnttikigod/SunBurntTikiGod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
