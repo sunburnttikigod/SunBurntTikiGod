@@ -1,7 +1,6 @@
 ## Lab 01
-
-- Name:Charlie Must
-- Email:must.2@wright.edu
+Name:  Charlie Must
+Email: must.2@wright.edu
 
 ## Part 1 - GitHub Profile
 
@@ -42,24 +41,21 @@ My Command Line Shell is:
 5. Return to your user's home directory: cd ~
 6. Create a file named `test.txt`: sudo touch test.txt from home directory
 7. Move the file named `test.txt` into `DirA`: mv test.txt ~/DirA from test.txt original directory
-8. Contents of `test.txt`:open test.txt
-        i typed in view --help  and it has a bunch of options there.   however.  when i open the txt file with the
-        ```command above it's an empty txt file, not sure really what else i am to look for here...
+8. Contents of `test.txt`: open test.txt
 9. Make a copy of `test.txt` named `copy.txt` in `DirA`: cp test.txt ~/DirA
 10. View the contents of `DirA`: ls
 11. Make a copy of `test.txt` in `Dir B` named `fodder.txt`:cp test.txt fodder.txt
 12. Delete / remove both `fodder.txt` AND `Dir B`:charlie@tiki-ubuntu:~/DirA$ cd ~
 charlie@tiki-ubuntu:~$ rm ~/DirA
 rm: cannot remove '/home/charlie/DirA': Is a directory
-charlie@tiki-ubuntu:~$ sudo rmdir DirA
-charlie@tiki-ubuntu:~$ sudo rmdir DirB
-charlie@tiki-ubuntu:~$ ls
+charlie@tiki-ubuntu:~$    sudo rmdir DirA
+charlie@tiki-ubuntu:~$    sudo rmdir DirB
+charlie@tiki-ubuntu:~$    ls
                        
 
 ## Citations  [Command]-help
 
-To add citations, provide the site and a summary of what it assisted you with.  If generative AI was used, include which generative AI system was used and what prompt(s) you fed it.
-
+_________________________________________________________________________________________
 My trials and Tribulations
 
 <pre><font color="#26A269"><b>charlie@tiki-ubuntu</b></font>:<font color="#12488B"><b>~</b></font>$ mv help
